@@ -1,6 +1,5 @@
 import tkinter as tk
 import random as r
-num=r.randint(1,6)
 sequence=[1,2,3,4,5,5,5,5,5,6]
 
 def func(str1,num):
